@@ -14,7 +14,7 @@
 Please do not care about what is really going in the background, again, this was only purposed to supply the students with one of the biggest sources in the internet for free. Chegg is a very huge data/educational source, and blocking such big source would not be reasonable. So, just invite the bot to your sever through the link below, and use the listed as following in order to successfully retrieve your answers. Good luck, keep studying harder!
 
 ### Steps
-1) Invite the BOT to your server by clicking <a href="https://discord.com/api/oauth2/authorize?client_id=805661322527637515&permissions=8&scope=bot">here</a>
+1) Invite the BOT to your server by clicking <a href="https://discord.com/api/oauth2/authorize?client_id=807344017452302376&permissions=8&scope=bot">here</a>
 2) Join Chegg BOT Server by clicking [here](https://discord.gg/RBFmRSYa2J) to ask your questions or to just use the bot.
 3) Add your mail to the database of the bot, so you will never ever have to mention your email again in the upcoming answer requests as exactly shown below:
 
