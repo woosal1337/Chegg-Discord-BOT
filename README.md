@@ -183,34 +183,6 @@ Please do not care about what is really going in the background, again, this was
 	<img src="https://woosal.com/1337/woosal1337-daSfcq4LgPzRM40ny4hOFopMgY6Mztxq8dE79Wnh6f9i1y9xndG2Idasb1o9nBOmpJckNyqEygoWsP6HCqBc5YDjk.png">
 </p>
 
-
-### Donate The Project
-<img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/icon/btc.png"> Bitcoin 
-```
-1suQvUwJedpTFfLTJtjq38yiwbt93FpzH
-```
-<img src="https://raw.githubusercontent.com/spothq/cryptocurrency-icons/master/32/icon/eth.png"> Ethereum
-```
-0xb6662CC88620B1f93BE44D81844823cd7745C531
-```
-
-
-
-| TOP DONATORS | $ |
-|:---:| :---:|
-|1. |$|
-|2.|$|
-|3.|$|
-
-
-
-### What to come
-<ol type="I">
-	<li>
-		Official BOT Verification by Discord
-	</li>
-</ol>
-
 ### Contributors
 <p>
 <a href="https://github.com/woosal1337"><img height="100px" width="100px" src="https://woosal.com/1337/woosal1337-1phcPFdgHFd92bV2KkEz4CjF4u7muVxnNLQ7rcez0NgnWMniYbK9cIcRdy9Cl0UVl8FUtUktoIufvi1roVyPivDlM.png"></a>
